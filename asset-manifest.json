@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.adf3615a.chunk.css",
-    "main.js": "/static/js/main.a1f19550.chunk.js",
-    "main.js.map": "/static/js/main.a1f19550.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1a3b1f4c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1a3b1f4c.js.map",
-    "static/css/2.01598ba5.chunk.css": "/static/css/2.01598ba5.chunk.css",
-    "static/js/2.b9b22c6b.chunk.js": "/static/js/2.b9b22c6b.chunk.js",
-    "static/js/2.b9b22c6b.chunk.js.map": "/static/js/2.b9b22c6b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4fc77467f4942b2eeb81150070c92ce2.js": "/precache-manifest.4fc77467f4942b2eeb81150070c92ce2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.01598ba5.chunk.css.map": "/static/css/2.01598ba5.chunk.css.map",
-    "static/css/main.adf3615a.chunk.css.map": "/static/css/main.adf3615a.chunk.css.map",
-    "static/js/2.b9b22c6b.chunk.js.LICENSE.txt": "/static/js/2.b9b22c6b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/leela1react.github.io/static/css/main.adf3615a.chunk.css",
+    "main.js": "/leela1react.github.io/static/js/main.f1b3228d.chunk.js",
+    "main.js.map": "/leela1react.github.io/static/js/main.f1b3228d.chunk.js.map",
+    "runtime-main.js": "/leela1react.github.io/static/js/runtime-main.9883660b.js",
+    "runtime-main.js.map": "/leela1react.github.io/static/js/runtime-main.9883660b.js.map",
+    "static/css/2.01598ba5.chunk.css": "/leela1react.github.io/static/css/2.01598ba5.chunk.css",
+    "static/js/2.b9b22c6b.chunk.js": "/leela1react.github.io/static/js/2.b9b22c6b.chunk.js",
+    "static/js/2.b9b22c6b.chunk.js.map": "/leela1react.github.io/static/js/2.b9b22c6b.chunk.js.map",
+    "index.html": "/leela1react.github.io/index.html",
+    "precache-manifest.c3576963e912b8fff5fce9cd2f1be6ae.js": "/leela1react.github.io/precache-manifest.c3576963e912b8fff5fce9cd2f1be6ae.js",
+    "service-worker.js": "/leela1react.github.io/service-worker.js",
+    "static/css/2.01598ba5.chunk.css.map": "/leela1react.github.io/static/css/2.01598ba5.chunk.css.map",
+    "static/css/main.adf3615a.chunk.css.map": "/leela1react.github.io/static/css/main.adf3615a.chunk.css.map",
+    "static/js/2.b9b22c6b.chunk.js.LICENSE.txt": "/leela1react.github.io/static/js/2.b9b22c6b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leela1react.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a3b1f4c.js",
+    "static/js/runtime-main.9883660b.js",
     "static/css/2.01598ba5.chunk.css",
     "static/js/2.b9b22c6b.chunk.js",
     "static/css/main.adf3615a.chunk.css",
-    "static/js/main.a1f19550.chunk.js"
+    "static/js/main.f1b3228d.chunk.js"
   ]
 }
